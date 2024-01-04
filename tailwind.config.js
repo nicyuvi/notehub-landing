@@ -15,6 +15,12 @@ module.exports = {
     },
     extend: {
       colors: {
+        hub: {
+          100: '#494E6B',
+          200: '#98878F',
+          300: '#985E6D',
+          400: '#192231',
+        },
         primary: {
           100: '#E6F6FE',
           200: '#C0EAFC',

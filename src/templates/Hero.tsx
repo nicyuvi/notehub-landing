@@ -9,7 +9,7 @@ const Hero = () => (
   <Background color="bg-gray-100">
     <Section yPadding="py-6">
       <nav>
-        <ul className="navbar flex items-center text-xl font-medium text-gray-800">
+        <ul className="navbar flex items-center text-xl font-medium text-hub-400">
           <li>
             <Link href="/">NoteHub</Link>
           </li>
@@ -22,7 +22,7 @@ const Hero = () => (
         title={
           <>
             {'Note'}
-            <span className="text-primary-500">Hub</span>
+            <span className="text-hub-100">Hub</span>
           </>
         }
         description="Share the Spark, Ignite the Notesphere!"

@@ -1,5 +1,5 @@
 # Landing page for NoteHub app
-A simple landing page for NoteHub app built with NextJS and TailwindCSS.
+A simple landing page for the NoteHub app built with NextJS and TailwindCSS.
 
 ## Stack 
 - NextJS 14
