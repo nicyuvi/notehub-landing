@@ -6,10 +6,10 @@ import { HeroOneButton } from '../hero/HeroOneButton';
 import { Section } from '../layout/Section';
 
 const Hero = () => (
-  <Background color="bg-gray-100">
+  <Background color="bg-hub-400">
     <Section yPadding="py-6">
       <nav>
-        <ul className="navbar flex items-center text-xl font-medium text-hub-400">
+        <ul className="navbar flex items-center text-xl font-medium text-hub-600 ">
           <li>
             <Link href="/">NoteHub</Link>
           </li>
@@ -22,7 +22,7 @@ const Hero = () => (
         title={
           <>
             {'Note'}
-            <span className="text-hub-100">Hub</span>
+            <span className="text-hub-200">Hub</span>
           </>
         }
         description="Share the Spark, Ignite the Notesphere!"
