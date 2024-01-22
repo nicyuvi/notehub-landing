@@ -27,7 +27,7 @@ const Hero = () => (
         }
         description="Share the Spark, Ignite the Notesphere!"
         button={
-          <Link href="/">
+          <Link href="https://notehub-app-six.vercel.app/">
             <Button xl>Check it out for free</Button>
           </Link>
         }
